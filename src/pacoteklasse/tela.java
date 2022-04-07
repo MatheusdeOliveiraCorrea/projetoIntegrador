@@ -1,7 +1,4 @@
 package pacoteklasse;
-
-import java.util.Scanner;
-
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 
@@ -21,15 +18,7 @@ public class tela {
 		
 	    ImageIcon image = new ImageIcon("/projetoIntegrador2/src/imagens/icone.jpg");
 	    frame.setIconImage(image.getImage());
-	    
-	    
-	    Scanner entrada = new Scanner(System.in);
-	    
-	    boolean seila = entrada.hasNext(); 
-	    
-	    
-	    
-	    
+	     
 	    
 	    
 	}
